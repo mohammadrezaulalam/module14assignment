@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780701579751",
+    "project_id": "fir-football-app",
+    "storage_bucket": "fir-football-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780701579751:android:68a1be0224531611d0a542",
+        "android_client_info": {
+          "package_name": "com.rezaulalam.com.firebase_football_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780701579751-der45qto5i0dll30r8qtobs3u1gk550m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4oH78wdjZnlxxkaB9XnG4P_wGHQZnQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780701579751-der45qto5i0dll30r8qtobs3u1gk550m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
